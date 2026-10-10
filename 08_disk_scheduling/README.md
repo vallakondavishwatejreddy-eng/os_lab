@@ -1,6 +1,6 @@
 # Experiment 8 — Disk Scheduling: FCFS, SSTF and SCAN
 
-**Date:** 10-09-2026  
+
 **Roll No.:** 25071A6263
 
 ## Aim
