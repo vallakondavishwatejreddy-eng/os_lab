@@ -1,6 +1,6 @@
 # Experiment 9 — Disk Scheduling: C-SCAN, LOOK and C-LOOK
 
-**Date:** 17-09-2026  
+
 **Roll No.:** 25071A6263
 
 ## Aim
