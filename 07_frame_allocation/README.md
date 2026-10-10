@@ -1,6 +1,6 @@
 # Experiment 7 — Frame Allocation Methods
 
-**Date:** 03-09-2026  
+
 **Roll No.:** 25071A6263
 
 ## Aim
