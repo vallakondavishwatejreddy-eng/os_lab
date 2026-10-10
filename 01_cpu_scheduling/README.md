@@ -1,6 +1,6 @@
 # Experiment 1 — FCFS and SJF Scheduling Algorithms
 
-**Date:** 23-07-2026  
+
 **Roll No.:** 25071A6263
 
 ## Aim
