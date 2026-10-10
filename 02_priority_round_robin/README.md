@@ -1,6 +1,6 @@
 # Experiment 2 — Priority and Round Robin Scheduling
 
-**Date:** 30-07-2026  
+ 
 **Roll No.:** 25071A6263
 
 ## Aim
