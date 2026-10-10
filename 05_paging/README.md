@@ -1,6 +1,6 @@
 # Experiment 5 — Paging Technique of Memory Management
 
-**Date:** 27-08-2026  
+
 **Roll No.:** 25071A6263
 
 ## Aim
