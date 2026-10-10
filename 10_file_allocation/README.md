@@ -1,6 +1,6 @@
 # Experiment 10 — File Allocation Strategies
 
-**Date:** 24-09-2026  
+
 **Roll No.:** 25071A6263
 
 ## Aim
