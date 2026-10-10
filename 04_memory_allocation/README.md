@@ -1,6 +1,6 @@
 # Experiment 4 — Fixed-Partition Memory Allocation
 
-**Date:** 27-08-2026  
+ 
 **Roll No.:** 25071A6263
 
 ## Aim
